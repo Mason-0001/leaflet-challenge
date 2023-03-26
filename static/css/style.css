@@ -8,3 +8,22 @@ body,
 html {
   height: 100%;
 }
+
+.info.legend {
+  padding-top: 5px; /* Add 10px of padding to the top */
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+}
+
+.legend i {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.info.legend i {
+  padding: 2px;
+}
