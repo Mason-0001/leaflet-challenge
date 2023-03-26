@@ -1,1 +1,2 @@
 # leaflet-challenge
+In this challenge I used Leaflet, html, JavaScript, and css to provide interactive earthquake maps that update as new information comes in. I used the United States Geological Survey (USGS) API to provide the data that I pulled in via JavaScript. The earthquake data is on two different maps that you can toggle between. Each area where an earthquake happened has a marker whose size depends on the magnitude of the earthquake and color depends on the depth. A legend is on the bottom right to show how the depth affects the color.
